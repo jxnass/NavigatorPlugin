@@ -18,7 +18,7 @@ public class Core extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        this.getLogger().info("Init.");
+        //this.getLogger().info("Lol.");
         doSetup();
         registerEvents();
     }
