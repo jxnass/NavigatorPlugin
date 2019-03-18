@@ -1,0 +1,6 @@
+name: Test
+version: 0.1
+main: de.glasfaser.Core
+author: glasfaser
+commands:
+  test:
