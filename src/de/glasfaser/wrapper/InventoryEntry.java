@@ -2,7 +2,6 @@ package de.glasfaser.wrapper;
 
 import org.bukkit.Location;
 import org.bukkit.Material;
-import org.bukkit.inventory.ItemStack;
 
 public class InventoryEntry {
 
@@ -15,7 +14,6 @@ public class InventoryEntry {
         this.name = name;
         this.locTo = locTo;
     }
-
 
     public Material getVisibleStack() {
         return visibleStack;
